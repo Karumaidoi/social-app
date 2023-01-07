@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="7.333" viewBox="0 0 18 7.333">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M339.333-24.667h15.333A1.333,1.333,0,0,1,356-23.333v4.667h0a1.333,1.333,0,0,1-1.333,1.333H339.333A1.333,1.333,0,0,1,338-18.667v-4.667h0A1.333,1.333,0,0,1,339.333-24.667Z" transform="translate(-338 24.667)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Capacity" clip-path="url(#clip-path)">
+    <path id="Fill" d="M333-29.667h28v17.333H333Z" transform="translate(-338 24.667)" fill="#fff"/>
+  </g>
+</svg>
